@@ -39,7 +39,7 @@ Skills:
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=sh1hvb&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=coding-tea&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=coding-tea&theme=radical" width="45%" >
 
 
