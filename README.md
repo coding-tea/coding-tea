@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=hey+I'm+ismail essadik+-+aka+coding tea)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=hey+I'm+ismail-essadik+-+aka+coding-tea)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a web Developer Fullstack!
 
@@ -10,7 +10,7 @@
 
 - :peach: I'm currently learning Web developement fullstack
 
-- :watermelon: You can reach me via email or LinkedIn([<img alt="essadik-ismail | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkdin.com/)])
+- :watermelon: You can reach me via email or LinkedIn([<img alt="essadik-ismail | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/ismail-essadik)])
 - :meat_on_bone: Fun fact, I love Programming ,solve problemes,play games.
 
 Skills:
@@ -40,14 +40,14 @@ Skills:
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=sh1hvb&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sh1hvb&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=coding-tea&theme=radical" width="45%" >
 
 
 <br /> 
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sh1hvb&theme=onestar&no-frame=true" alt="sh1hvb Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=coding-tea&theme=onestar&no-frame=true" alt="sh1hvb Profile Trophies" />
   </a>
 </div>
 
@@ -65,7 +65,7 @@ Skills:
 </div>
 
 
-**sh1hvb/sh1hvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**coding tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
