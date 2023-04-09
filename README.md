@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=hey+I'm+ismail-essadik+-+aka+coding-tea)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+ismail-essadik+-+aka+coding-tea)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a web Developer Fullstack!
 
