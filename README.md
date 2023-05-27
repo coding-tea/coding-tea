@@ -1,7 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+ismail-essadik+-+aka+coding-tea)](https://git.io/typing-svg)
-
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=coding-tea&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
