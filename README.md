@@ -1,22 +1,12 @@
-## 🏆 Github Status
+/- About me:
+* I'm from fez, Morocco.
+* I'm a Full stack web developer.
 
-<img  src="https://github-readme-stats.vercel.app/api?username=coding-tea&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=coding-tea&theme=radical" width="45%" >
+/- Tools I master:
+* Programming languages: python, JavaScript, PHP, html, CSS, SQL.
+* Technologies & Frameworks: React, Redux, Laravel, Jira.
 
-
-<br /> 
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coding-tea&theme=onestar&no-frame=true" alt="sh1hvb Profile Trophies" />
-  </a>
-</div>
-
-<br /> 
-
-**coding tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 📫 How to reach me: linkedin or facebook
-- ⚡ Fun fact: coding is language of creativity for people today
--->
+/- Useful links:
+* <a href='https://www.linkedin.com/in/ismail-essadik/'>linkedin</a>
+* <a href='https://web.facebook.com/ismail.essadik01'>Facebook</a>
+* <a href='https://www.instagram.com/coding_tea1'>Instagram</a>
