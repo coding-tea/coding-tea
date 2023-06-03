@@ -7,6 +7,6 @@
 * Technologies & Frameworks: React, Redux, Laravel, bootstrap, tailwind, node, express, Jira.
 
 /- Useful links:
-* <a href='https://www.linkedin.com/in/ismail-essadik/'>linkedin</a>
-* <a href='https://web.facebook.com/ismail.essadik01'>Facebook</a>
-* <a href='https://www.instagram.com/coding_tea1'>Instagram</a>
+* <a href='https://www.linkedin.com/in/ismail-essadik/' target='_blank' >linkedin</a>
+* <a href='https://web.facebook.com/ismail.essadik01' target='_blank'>Facebook</a>
+* <a href='https://www.instagram.com/coding_tea1' target='_blank'>Instagram</a>
