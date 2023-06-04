@@ -1,6 +1,7 @@
 /- About me:
 * I'm from fez, Morocco.
-* I'm a Full stack web developer.
+* Muslim.
+* Full stack web developer.
 
 /- Tools I master:
 * Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
