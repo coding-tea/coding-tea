@@ -2,7 +2,8 @@
 * I'm from fez, Morocco.
 * Muslim.
 * Full stack web developer.
-* <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
+* <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-tea&label=Profile%20views&color=0e75b6&style=flat" alt="coding-tea" /> </p>
+
 
 
 /- Tools I master:
