@@ -2,9 +2,6 @@
 * I'm from fez, Morocco.
 * Muslim.
 * Full stack web developer.
-* <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-tea&label=Profile%20views&color=0e75b6&style=flat" alt="coding-tea" /> </p>
-
-
 
 /- Tools I master:
 * Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
