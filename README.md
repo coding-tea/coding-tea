@@ -4,8 +4,8 @@
 * Full stack web developer.
 
 /- Tools I master:
-* Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
-* Technologies & Frameworks: React, Redux, Laravel, bootstrap, tailwind, node, express, Jira.
+* Programming languages: python, java, JavaScript, PHP, html, CSS, SQL, Mongo db.
+* Technologies & Frameworks: React, Redux, vue, inertia, Laravel, bootstrap, tailwind, node, express, Jira.
 
 /- Useful links:
 * <a href='https://www.linkedin.com/in/ismail-essadik/' target="_blank" >linkedin</a>
