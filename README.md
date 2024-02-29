@@ -10,4 +10,4 @@
 /- Useful links:
 * <a href='https://www.linkedin.com/in/ismail-essadik/' target="_blank" >linkedin</a>
 * <a href='https://web.facebook.com/ismail.essadik01' target="_blank" >Facebook</a>
-* <a href='https://www.instagram.com/coding_tea1' target="_blank" >Instagram</a>
+* <a href='https://www.instagram.com/essadik.ismail/' target="_blank" >Instagram</a>
