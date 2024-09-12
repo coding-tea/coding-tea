@@ -1,4 +1,4 @@
-About Me:
+About Me:<br>
 I'm a Full Stack Web Developer based in Fez, Morocco. I specialize in building high-quality, scalable web applications with a focus on delivering efficient and clean code.
 <br>
 <br>
